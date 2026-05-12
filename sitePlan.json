@@ -1,0 +1,49 @@
+{
+  "businessName": "Jameh Consult",
+  "industry": "Fintech",
+  "tone": "professional",
+  "tagline": "Empowering Financial Innovation Across Nigeria",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Transform Your Financial Future with Jameh Consult. Leading fintech solutions provider delivering innovative payment systems, financial technology consulting, and digital banking solutions across Nigeria. Based in Karu, serving businesses nationwide.",
+      "imagePrompt": "Modern Nigerian fintech office environment, sleek glass building exterior in Karu, Abuja metropolitan area, professional African business people using digital payment terminals and mobile banking apps, bright natural lighting, contemporary workspace with financial technology displays, vibrant blue and green color scheme representing trust and growth",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Jameh Consult is a forward-thinking fintech company headquartered in Karu, Nasarawa State, Nigeria. We specialize in providing cutting-edge financial technology solutions that empower businesses and individuals to thrive in the digital economy. Our expertise spans payment gateway integration, financial software development, digital banking solutions, and fintech consulting services. With deep understanding of the Nigerian financial landscape and regulatory environment, we deliver solutions that are compliant, secure, and tailored to local market needs. Our commitment is to bridge the gap between traditional finance and modern technology, making financial services more accessible, efficient, and inclusive for all Nigerians.",
+      "imagePrompt": "Professional Nigerian fintech team collaborating in modern office, diverse group of African tech professionals reviewing financial data on large digital screens, sleek laptops and tablets, charts showing growth trajectories, bright professional office in Abuja area, warm natural lighting, atmosphere of innovation and trust",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Payment Solutions & Integration: Seamless payment gateway integration, POS systems, and mobile payment solutions for businesses of all sizes. Digital Banking Solutions: Custom digital banking platforms, mobile banking apps, and online financial management tools. Fintech Consulting: Strategic consulting on fintech implementation, regulatory compliance, and digital transformation for financial institutions. Software Development: Custom financial software, API development, and secure transaction systems built to international standards. Training & Support: Comprehensive training programs and ongoing technical support to ensure your team maximizes our solutions.",
+      "imagePrompt": "Split screen collage showing various fintech services in action: Nigerian merchant using POS terminal, mobile banking app interface on smartphone with Naira transactions, financial consultant presenting to business clients, secure server room with glowing network connections, all in professional Nigerian business settings",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose",
+      "name": "Why Choose Jameh Consult",
+      "copy": "Local Expertise, Global Standards: We understand the Nigerian market deeply while applying international best practices in fintech development. Regulatory Compliance: All our solutions are designed with CBN guidelines and Nigerian financial regulations in mind. Proven Track Record: Successfully deployed fintech solutions for businesses across various sectors in Nigeria. End-to-End Support: From consultation to implementation and ongoing maintenance, we're with you every step. Secure & Reliable: Bank-grade security protocols and 99.9% uptime guarantee for all our platforms. Affordable Solutions: Flexible pricing models designed for Nigerian SMEs and growing enterprises.",
+      "imagePrompt": "Nigerian business success story visual: professional handshake between fintech consultant and satisfied client, modern office setting in Nasarawa State, digital security shield icons overlaying the scene, graphs showing upward trends, warm professional atmosphere conveying trust and partnership",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to transform your financial operations with innovative fintech solutions? Contact Jameh Consult today for a free consultation. Whether you're a startup looking to integrate payment systems or an established business seeking digital transformation, our team is ready to help you succeed. Visit our office in Karu or reach out via phone, email, or WhatsApp. Let's build the future of finance together.",
+      "imagePrompt": "Welcoming Nigerian business office reception area in Karu, Nasarawa State, modern clean design with fintech branding, friendly African receptionist at sleek desk, large windows showing Nigerian landscape, professional yet approachable atmosphere, contact information displayed on digital screen, warm lighting",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 803 741 6950",
+    "email": "info@jamehconsult.ng",
+    "address": "Al-Hikma Polytechnic Quarters, Karshi, Nasarawa State, Nigeria",
+    "whatsapp": "https://wa.me/2348037416950"
+  }
+}
